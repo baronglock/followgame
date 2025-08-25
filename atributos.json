@@ -1,0 +1,32 @@
+{
+  "_paiva10": {
+    "hp": 1,
+    "forca": 1,
+    "armadura": 0,
+    "sorte": 0
+  },
+  "anne.glock": {
+    "hp": 0,
+    "forca": 0,
+    "armadura": 1,
+    "sorte": 1
+  },
+  "becka_jung": {
+    "hp": 1,
+    "forca": 0,
+    "armadura": 0,
+    "sorte": 0
+  },
+  "bellnelio": {
+    "hp": 0,
+    "forca": 1,
+    "armadura": 1,
+    "sorte": 0
+  },
+  "benzinho0305": {
+    "hp": 1,
+    "forca": 1,
+    "armadura": 1,
+    "sorte": 1
+  }
+}

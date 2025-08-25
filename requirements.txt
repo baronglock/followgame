@@ -1,0 +1,4 @@
+pygame
+instaloader
+Pillow
+selenium

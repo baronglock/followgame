@@ -1,0 +1,32 @@
+{
+  "instagram": {
+    "rate_limit_min": 2,
+    "rate_limit_max": 4,
+    "max_followers_fetch": 50,
+    "cache_hours": 24,
+    "session_file": "session.pkl"
+  },
+  "game": {
+    "screen_width": 1280,
+    "screen_height": 720,
+    "fps": 60,
+    "sprite_size": 40,
+    "speed_increase_on_collision": 1.01,
+    "hit_cooldown_ms": 250,
+    "winner_display_time_ms": 5000
+  },
+  "fighter_stats": {
+    "base_hp": 100,
+    "base_strength": 5,
+    "base_armor": 3,
+    "base_luck": 2,
+    "crit_chance_per_luck": 0.05,
+    "defense_chance_per_luck": 0.05,
+    "armor_reduction_divisor": 10
+  },
+  "debug": {
+    "show_fps": false,
+    "verbose_combat_log": true,
+    "save_battle_replay": false
+  }
+}
